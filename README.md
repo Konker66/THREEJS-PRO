@@ -1,2 +1,1 @@
-# THREEJS-PRO
-this is my first THREEJS project
+# getting-started-with-threejs
